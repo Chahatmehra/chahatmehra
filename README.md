@@ -19,6 +19,10 @@
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-005F60?style=for-the-badge&logo=analytics&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
