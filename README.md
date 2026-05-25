@@ -3,21 +3,11 @@
 
 ---
 
-### 🧠 Fields of Interest
-* 📊 **Data Analytics** & **Data Visualization** (using **Tableau** & **Power BI**)
-* 🐍 Core Development with **Python** & Structural Querying with **SQL**
-* 🤖 **Machine Learning (ML)**, Deep Learning, & **Gen AI** Implementation
-* 📈 Business Intelligence & Data Management using **Microsoft Excel**
-* 📊 Interactive Dashboarding & Reporting with **Power BI**
-* 🎨 Advanced Data Storytelling with **Tableau**
-
----
-
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-005F60?style=for-the-badge&logo=analytics&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white)
